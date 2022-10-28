@@ -24,7 +24,7 @@ module hippo_aggregator::aggregator {
     const DEX_APTOSWAP: u8 = 7;
     const DEX_AUX: u8 = 8;
     const DEX_ANIMESWAP: u8 = 9;
-    const DEX_CETUS: u8 = 9;
+    const DEX_CETUS: u8 = 10;
 
     const HIPPO_CONSTANT_PRODUCT:u64 = 1;
     const HIPPO_PIECEWISE:u64 = 3;
